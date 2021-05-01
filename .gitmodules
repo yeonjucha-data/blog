@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:yeonjucha-data/yeonjucha-data.github.io.git
+	branch = master
